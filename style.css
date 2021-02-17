@@ -103,3 +103,27 @@ a {
 	}
 
 }
+
+////////////////////////////////////////-- - .- -.- ...////////////////////////
+
+.central{
+	text-align: center;
+	width: 100%;
+}
+.position2{
+	display: inline-block;
+	margin:0 auto;
+    width:100px;
+    height: 20px;
+}
+
+.position1 {
+    float:left;
+    width:100px;
+    height: 20px;
+}
+.position3 {
+    float:right;
+    width:100px;
+    height: 20px;
+}
