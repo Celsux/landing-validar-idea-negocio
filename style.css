@@ -87,53 +87,57 @@ a {
 	.header {
 		flex-direction: column;
 		align-items: center;
-    	.header{
 		width: 60%;
 		margin: 0;
 		max-width: 1150px;
-	}
 	}
 
 }
 
 @media (min-width: 1025px) {
-	.central {
+	.header {
 		flex-direction: row;
 		justify-content: space-between;
 	}
 
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5ce5511 (organizando proyecto)
 
-////////////////////////////////////////-- - .- -.- ...////////////////////////
+/* ///////////////////////////////////
+Parte Tres
+//////////////////// */
 
-.central{
-	text-align: center;
-	width: 100%;
-}
-.position2{
-	display: inline-block;
-	margin:0 auto;
-    width:100px;
-    height: 20px;
+.origin{
+	display: flex;
+    flex-direction: row;
+    padding-top: 4vw;
+	margin-bottom: 5.4545vw;
 }
 
-.position1 {
-    float:left;
-    width:100px;
-    height: 20px;
+.posiml{
+	width: 17.5454vw;
 }
-.position3 {
-    float:right;
-    width:100px;
-    height: 20px;
-<<<<<<< HEAD
+
+.image{
+	height: 38.1818vw;
+	width: 67.9090vw;
 }
-=======
->>>>>>> 14ce5cb (first commit)
-=======
+
+.posimr{
+	width: 2.8181vw;
 }
->>>>>>> 5ce5511 (organizando proyecto)
+.posimlr{
+	display: flex;
+	flex-direction: column;
+	margin-top: 10.5454vw;
+	margin-right: 9.8181vw;
+}
+.redes{
+    width: 1.6363vw;
+	height: 1.0909vw;
+    margin-bottom: 2.7272vw;
+}
+
+.abcdasdasdasdadas{
+	width: 9.6363vw;
+	height: 12px;
+}
